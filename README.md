@@ -22,10 +22,15 @@ In order to know what questions we should ask, we need to establish a foundation
 ### tutorials
 
 [Microsoft: Frontend Bootcamp](https://github.com/Microsoft/frontend-bootcamp)
+
 [Wes Bos: CSS Grids](https://cssgrid.io/)
+
 [Wes Bos: JavaScript 30](https://javascript30.com/)
+
 [Wes Bos: What the Flexbox?](https://flexbox.io/)
+
 [Wes Bos: Mastering Markdown](https://masteringmarkdown.com/)
+
 
 ### articles
 
