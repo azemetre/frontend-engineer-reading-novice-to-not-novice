@@ -19,7 +19,7 @@ But it's hard to ask questions when you don't know what questions to ask. It's h
 In order to know what questions we should ask, we need to establish a foundation of knowledge.
 
 
-### tutorials
+### tutorials - free
 
 [Microsoft: Frontend Bootcamp](https://github.com/Microsoft/frontend-bootcamp)
 
@@ -31,6 +31,9 @@ In order to know what questions we should ask, we need to establish a foundation
 
 [Wes Bos: Mastering Markdown](https://masteringmarkdown.com/)
 
+[Udacity: Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
+
+### tutorials - paid
 
 ### articles
 
